@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riya83" alt="riya83" /></a> </p>
 
-- 🔭 I worked on **Python Development, Web Development,and IoT Development as an Intern**
+- 🔭 I worked on **Python Development, Web Development, and IoT Development as an Intern**
 
 - 🌱 I’m currently learning **Data Analytics (Tools like Power BI), Ethical Hacking, and Cybersecurity**
 

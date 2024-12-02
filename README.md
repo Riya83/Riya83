@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riya83" alt="riya83" /></a> </p>
 
-- 🔭 I’m currently working on **IoT Development with Bharat Intern**
+- 🔭 I worked on **Python Development, Web Development,and IoT Development as an Intern**
 
-- 🌱 I’m currently learning **Ethical Hacking, Cybersecurity**
+- 🌱 I’m currently learning **Data Analytics (Tools like Power BI), Ethical Hacking, and Cybersecurity**
 
-- 💬 Ask me about **Python, C++, Competitive programming, Networking**
+- 💬 Ask me about **Python, HTML/CSS, Data Analysis, Cyber Forensics**
 
-- 📫 How to reach me **riyadodeja30@gmail.com**
+- 📫 How to reach me **riyadodeja83@gmail.com**
 
-- 📄 Know about my experiences [Intern at Bharat Intern]
+- 📄 Know about my experiences [Intern at Bharat Intern, Intern at Oasis Infobyte, and Intern at CodersCave]
 - ⚡ Fun fact **I think I'm not at all funny**
 
 <h3 align="left">Connect with me:</h3>
